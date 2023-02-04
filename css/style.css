@@ -67,22 +67,22 @@ p {
 .second {
 	margin-top: 40px;
 }
-
+.image5{
+	max-width: 300px;
+	margin: auto;
+}
 .p-vertical-align {
 	display: inline-block;
 	/*vertical-align: middle;*/
 	vertical-align: bottom;
 	/*vertical-align: top;*/
-	padding-bottom: 40px;
+	margin-right: 50px;
 }
 
-.image5{
-	margin-bottom: 50px;
-}
 .linkedin{
 	color: black;
 	font-size: 25px;
 	font-weight: 700;
 	display: inline-block;
-	margin-bottom: 30px;
+	margin-bottom: 70px;
 }
