@@ -11,23 +11,28 @@ body {
 	max-width: auto;
 }
 
-h3 {
+h3, h1{
 	font-size: 25px;
-	line-height: 40px;
+	line-height: 1.6;
 	font-weight: 700;
 	color: #212529;
-	margin: 0 312px 40px;
 }
 
+.main{
+	padding-left: 20px;
+}
 .first-h {
 	max-width: 406px;
+	margin: 0 auto 40px;
 }
 .second-h {
 	max-width: 605px;
+	margin: 0 auto 40px;
+
 }
 
 p {
-	margin: 0 auto 0 312px;
+	margin: 0 auto;
 	max-width: 816px;
 	font-size: 14px;
 	line-height: 25px;
@@ -37,7 +42,8 @@ p {
 
 .img {
 	max-width: 100%;
-	margin: 80px auto;
+	margin: 0 auto 80px;
+	display: block;
 }
 .image {
 	display: inline;
@@ -54,3 +60,29 @@ p {
 	margin-bottom: 80px;
 }
 
+
+.first {
+	margin-bottom: 30px;
+}
+.second {
+	margin-top: 40px;
+}
+
+.p-vertical-align {
+	display: inline-block;
+	/*vertical-align: middle;*/
+	vertical-align: bottom;
+	/*vertical-align: top;*/
+	padding-bottom: 40px;
+}
+
+.image5{
+	margin-bottom: 50px;
+}
+.linkedin{
+	color: black;
+	font-size: 25px;
+	font-weight: 700;
+	display: inline-block;
+	margin-bottom: 30px;
+}
