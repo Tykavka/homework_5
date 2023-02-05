@@ -17,6 +17,7 @@ body {
 	margin: 0 auto;
 }
 .first-title, h1{
+	color: #212529;
 	line-height: 160%; /* 40/25 */
 	max-width: 406px;
 	font-size: 25px;
@@ -25,6 +26,7 @@ body {
 
 }
 p {
+	color: #6C757D;
 	margin-bottom: 30px;
 	line-height: 178.571429%; /* 25/14 */
 }
@@ -44,6 +46,7 @@ p {
 	margin: 0 auto;
 }
 .second-title {
+	color: #212529;
 	line-height: 160%; /* 40/25 */
 	max-width: 605px;
 	font-size: 25px;
@@ -62,11 +65,10 @@ p {
 	margin-right: 30px;
 }
 .last-text {
+	color: #6C757D;
 	max-width: 816px;
 	margin: 0 auto 100px;
 }
-
-
 
 .first {
 	background-color: red;
